@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Dustin Greenwood 👋
 
-<!--
-**dustingreenwood2-a11y/dustingreenwood2-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mathematical Sciences Graduate
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst | Business Intelligence | Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Python
+- Power BI
+- SQL
+- Pandas
+- Scikit-Learn
+- Statistical Analysis
+- Forecasting
+- Data Visualization
+
+## Featured Projects
+
+### Customer Churn Prediction and Business Analytics
+- Random Forest Classification
+- Customer Retention Analysis
+- Power BI Dashboard
+- Predictive Analytics
+
+### Retail Sales Forecasting and Executive Dashboard
+- Prophet Forecasting
+- Retail Analytics
+- Sales Trend Analysis
+- Executive Power BI Dashboard
+
+## Currently Learning
+
+- Advanced Machine Learning
+- Time Series Forecasting
+- Business Intelligence
+- Data Engineering
+
+## Connect With Me
+
+- LinkedIn: *(https://www.linkedin.com/in/dustin-greenwood-3915533a1)*
+- GitHub: https://github.com/dustingreenwood2-a11y
